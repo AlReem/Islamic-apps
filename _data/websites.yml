@@ -1,6 +1,24 @@
 - id: 1
+  websitename: "Tune Islam"
+  description: "Malayalam Islamic Class Room (MICR) would like to present **TuneIslam** to every one who is interested in learning about Islam from its authentic sources."
+  link: https://tuneislam.com
+  imagelink: http://tuneislam.com/wp-content/themes/tuneislam2/images/logo.png
+
+- id: 2
   websitename: "Dawavoice"
-  link: https://dawavoice.com
   description: "**Da’waVoice – The Authentic Source for Islamic Speeches**
 Our humble mission is to spread the light of Islam through converging yet wide Internet world.  You can listen to our wide collection of audio, in various selection of subjects and orators. We have well categorised speeches by Orators (Da’ee) and Subjects for your convenience. Easy search options helps you to find the appropriate audio quickly."
+  link: http://tuneislam.com/
   imagelink: http://dawavoice.com/wp-content/themes/twentytwelve-child/images/Logo_350px.png
+
+- id: 3
+  websitename: "Salafi Audio"
+  description: "719 speeches, 60 scholars, 69 subjects, 546 topics"
+  link: http://salafi.audio/
+  imagelink: http://salafi.audio/static/site/images/salafi-audio-hr-2.png
+
+- id: 4
+  websitename: "Salafivoice"
+  description: "Collection of articles"
+  link: http://www.salafivoice.com/
+  imagelink: http://www.salafivoice.com/images/head_09.gif

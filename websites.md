@@ -5,9 +5,9 @@ comments: true
 ### Best Islamic websites
 The following are a list of best islamic websites.
 
-|#|Website|Description|
-|-|-|-|
-{% for website in site.data.websites %}|{{website.id}}|[![{{website.websitename}}]({{website.imagelink}}){: height="150" width="150" .img-responsive .img-thumbnail}]({{website.link}})|{{ website.description | markdownify_ }}|
+|#|Logo|Website|Description|
+|-|-|-|-|
+{% for website in site.data.websites %}|{{website.id}}|[![{{website.websitename}}]({{website.imagelink}}){: height="150" width="150" .img-responsive .img-thumbnail}]({{website.link}})| {{website.websitename}} |{{ website.description | markdownify_ }}|
 {% endfor %}{: .table .table-striped .table-hover}
 
 {% if page.comments %}
