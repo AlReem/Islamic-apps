@@ -1,7 +1,7 @@
 - id: 1
   appname: "Quran Android"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.quran.labs.androidquran&hl=en
   description: "Quran for Android is a free, open source Quran application for Android devices. There are many features under development. Please send us your feedback and feature requests and keep us in your prayers!"
   platform: Android
   imagelink: https://lh3.ggpht.com/zoyAL6BWpiHrgyFEujQcEXhBqZn4SfX0JiIFqOecs2JoZYy39Yam8xiz7Vq6kP7S2w=w300-rw
@@ -9,7 +9,7 @@
 - id: 2
   appname: "My Prayer"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.haz.prayer&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.haz.prayer&hl=en
   description: "This app calculates Muslims prayer times using the phone's location (latitude and longitude) based on different conventions."
   platform: Android
   imagelink: https://lh4.ggpht.com/drepW0hXbtbPkgboHXxRNyg4H9i1_NIuXcWaRL-HG3_jEo-cKnVvqgaTM1LuQ0CK1g=w300-rw
@@ -17,7 +17,7 @@
 - id: 3
   appname: "Adkaar - Saheeh Hisnul Muslim"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.adkaar.adkaarapp&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.adkaar.adkaarapp&hl=en
   description: "Android app based on world renowned supplications book, Hisnul Muslim (Remembrance and Supplication from the Qur'aan and Sunnah) by Sheikh Sa'eed bin Ali bin Wahf al-Qahtani and its Malayalam Translation by Abu Abdillah, Jeddah"
   platform: Android
   imagelink: https://lh4.ggpht.com/F5ezcAeHMr5-AFOY4kWkIm0EiMWwUza8cPIcT2ve_Qhn4D7OH02l_it2Y8KCO0ZxwWpp=w300-rw
@@ -25,16 +25,17 @@
 - id: 4
   appname: "Dawa Voice"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.dawavoice.androidapp&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.dawavoice.androidapp&hl=en
+  iStoreLink: https://itunes.apple.com/us/app/dawavoice/id866038316?mt=8
   description: "Da’waVoice – The Authentic Source for Islamic Speeches
 Our humble mission is to spread the light of Islam through converging yet wide Internet world.  You can listen to our wide collection of audio, in various selection of subjects and orators. We have well categorised speeches by Orators (Da’ee) and Subjects for your convenience. Easy search options helps you to find the appropriate audio quickly."
-  platform: Android
+  platform: Android & iOS
   imagelink: https://lh6.ggpht.com/QvISwdlps8ENu0lTH5nFdD8F7A7m5s3y4gcMjhdGg3OkVt-rz9SsOPvNbRyqD7KdoqI=w300-rw
 
 - id: 5
   appname: "Tuneislam"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.zsenda.tuneislam&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.zsenda.tuneislam&hl=en
   description: "Malayalam Islamic Class Room (MICR) would like to present
 TuneIslam to every one who is interested in learning
 about Islam from its authentic sources."
@@ -44,7 +45,7 @@ about Islam from its authentic sources."
 - id: 6
   appname: "Salafi Audio"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.zsenda.salafiaudio&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.zsenda.salafiaudio&hl=en
   description: "A unique mission to provide a platform for hearing and sharing authentic dawa speeches, aiming to provide high speed and faster delivery of content. Contents are free to copy and share as is according to the fair usage policy."
   platform: Android
   imagelink: https://lh3.ggpht.com/sgtRfDsIa9rCGLiYuSPnnvOjSMERlX0xu7uX96LEZFghC25Ts_fV_rirX63p-u26yGGb=w300-rw
@@ -52,7 +53,7 @@ about Islam from its authentic sources."
 - id: 7
   appname: "Al Islah Radio"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.alislah.radio&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.alislah.radio&hl=en
   description: "Listen to authentic malayalam islamic internet radio streaming 24 hours featuring Quran, Hadith Study classes & lectures.
 Listen & be Enlightened."
   platform: Android
@@ -61,15 +62,7 @@ Listen & be Enlightened."
 - id: 8
   appname: "Hajjinte Roopam (Malayalam)"
   linkText: "Google Play Link"
-  link: https://play.google.com/store/apps/details?id=com.adkaar.hajjinteroopamapp&hl=en
+  androidLink: https://play.google.com/store/apps/details?id=com.adkaar.hajjinteroopamapp&hl=en
   description: "Android app based on world renowned book, صفـــة الحج by Sheikh Mohammad Bin Swalih Al Osaimeen (Malayalam Version) translated by Muhammad Kutti Kadannamanna."
   platform: Android
   imagelink: https://lh3.ggpht.com/QWY_tINYgSxEHB4KmS8Y5td6ZSY0mY5TwGxLcx0Gwp0sPdo4WPaPbbYTKlHl_tZ_BEM=w300-rw
-
-- id: 9
-  appname: "DawaVoice"
-  linkText: "Apple App Store Link"
-  link: https://itunes.apple.com/us/app/dawavoice/id866038316?mt=8
-  description: "Our humble mission is to spread the light of Islam through converging yet wide Internet world. By presenting Islamic speeches in popular audio formats the website provides easy access to the most authentic speeches to spread the true light of Islam."
-  platform: Apple iStore
-  imagelink: https://lh6.ggpht.com/QvISwdlps8ENu0lTH5nFdD8F7A7m5s3y4gcMjhdGg3OkVt-rz9SsOPvNbRyqD7KdoqI=w300-rw
